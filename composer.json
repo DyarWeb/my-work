@@ -1,5 +1,5 @@
 {
-  "name": "dyarweb/my-work",
+  "name": "dyarweb/my-work-bot",
   "description": "just sample bot with dyarweb/php-telegram-bot library (pollUpdate)",
   "type": "project",
   "license": "MIT",
