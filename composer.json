@@ -2,7 +2,7 @@
   "name": "dyarweb/my-work-bot",
   "description": "just sample bot with dyarweb/php-telegram-bot library (pollUpdate)",
   "type": "project",
-  "license": "MIT",
+  "license": "GPL3",
   "homepage": "https://DyarWeb.Com",
   "keywords": ["telegram", "bot", "api", "oop", "PHP", "pollUpdate", "getUpdate", "php7", "php7.4", "new", "full", "last version"],
   "authors": [
