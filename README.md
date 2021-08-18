@@ -8,11 +8,14 @@
 
 - Run Composer create-project
 
-```php
+```
 composer create-project dyarweb/my-work-bot
 ```
-- You're env.php file should be something like env.php.sample, then run bot with : php main.php
-
+- You're env.php file should be something like env.php.sample, then run bot with : 
+ 
+```
+php main.php
+```
 <br>
 
 
